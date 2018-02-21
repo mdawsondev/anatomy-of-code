@@ -41,3 +41,7 @@ The range of elements (i.e. indexes) processed by `forEach()` is set **before th
 
 > You can't stop or break a `forEach()` loop other than by throwing an exception. If you need such behavior, a more typical loop is preferred. If looking to return a Boolean value, `every()` or `some()` should be used instead. The new methods `find()` or `findIndex()` may be used for early termination upon true predicates.
 
+## Notes
+
+* The parameter `array` is bound to the original array, i.e. if the original array is mutated mid-loop, `array` is also mutated and does not retain the original values.
+* Unless passed through a function declaration, `this` from `thisArg` will represent the external Object encasing the method. Arrow functions do not accept `thisArg`.
