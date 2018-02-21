@@ -5,7 +5,7 @@
 Referenced will be listed in their respective documents.
 
 ## Syntax
-* ~~[Strike](#)~~: References marked with **strike** are [deprecited code](0), but link to their original [MDN](1) reference.
+* ~~[Strike](#)~~: References marked with **strike** are [depreciated code](0), but link to their original [MDN](1) reference.
 * ⚠: **Warning signs** represent features that are experimental or *potentially* unsupported.
 
 [0]: https://en.wikipedia.org/wiki/Deprecation
