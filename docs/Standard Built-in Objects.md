@@ -1,13 +1,10 @@
 # Standard Built-in Objects
+###### Sourced through [MDN][0].
 
-#### Sourced through [MDN web docs][0].
-
----
-
-The **global object** wraps the topmost scope, and in the case of a browser application is the `window` object. **Global objects**, on the other hand, sit _within_ the global object. The global object can be accessed through `this` in the global scope as long as `'use strict';` hasn't been envoked.
+The **global object** wraps the topmost scope, and in the case of a browser application is the `window` object. **Global objects**, on the other hand, sit *within* the global object. The global object can be accessed through `this` in the global scope as long as `'use strict';` hasn't been envoked. 
 
 ## Value Objects
-* Infinity
+* [Infinity](../docs/Global%20Objects/Infinity.md)
 * NaN
 * undefined
 * null
