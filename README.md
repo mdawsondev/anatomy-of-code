@@ -1,6 +1,8 @@
-# Anatomy of JavaScript
+# Anatomy of Code
 
-**Anatomy of JavaScript** is a personal notebook archiving my dissection of the JavaScript language. This repo is neither a reference library nor a transcription of the original documents it was created around; it was only meant to help me ensure I understood the language as thoroughly as possible. If you want to clone or fork this project, you're more than welcome - however, I'd like to encourage you to start from the ground up like I have if you want to get the most out of the experience.
+Anatomy of Code houses my disection and analysis of various programming language docs. Originally, this repo housed my interest in pulling apart the [MDN JavaScript docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript), but I realized this was something I'd likely be doing for several languages or technologies.
+
+The content here was typed character by character, never copied. Although _some_ information may be transcribed as the original was written, the majority of it was rephrased and summarized to help ensure I understand what was being read. The odds of this repository being useful to anyone but myself are slim, but if you find yourself reading this and my notes help you understand some issues more easily then you're welcome to use anything here as you see fit.
 
 Referenced will be listed in their respective documents.
 
