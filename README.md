@@ -6,7 +6,7 @@ The content here was typed character by character, never copied. Although _some_
 
 Referenced will be listed in their respective documents.
 
-## Syntax
+## JavaScript - MDN Syntax
 * ~~[Strike](#)~~: References marked with **strike** are [depreciated code](0), but link to their original [MDN](1) reference.
 * ⚠: **Warning signs** represent features that are experimental or *potentially* unsupported.
 
