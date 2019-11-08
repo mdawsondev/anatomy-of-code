@@ -1,6 +1,6 @@
-# Doc Notebooks
+# Documentation Notebooks
 
-Doc Notebooks is a collection of my notes taken on various programming docs. This likely isn't useful to anyone other than myself, but I wanted a place to store my notebooks without cluttering my other [course-based notes](0).
+A collection of my notes taken on various programming docs. This likely isn't useful to anyone other than myself, but I wanted a place to store my notebooks without cluttering my other [course-based notes](0).
 
 Referenced will be listed in their respective documents.
 
